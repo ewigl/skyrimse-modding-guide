@@ -52,7 +52,7 @@ const config = {
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: PROJECT_GITHUB_URL,
+          // editUrl: PROJECT_GITHUB_URL,
         },
         blog: {
           showReadingTime: true,
@@ -62,7 +62,7 @@ const config = {
           },
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: PROJECT_GITHUB_URL,
+          // editUrl: PROJECT_GITHUB_URL,
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
