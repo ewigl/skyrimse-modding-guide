@@ -1,0 +1,14 @@
+{
+  "title": {
+    "message": "博客",
+    "description": "上古卷轴5 Mod 教程 by Licht. - SMGL 的博客。"
+  },
+  "description": {
+    "message": "Blog",
+    "description": "上古卷轴5 Mod 教程 by Licht. - SMGL 的博客。"
+  },
+  "sidebar.title": {
+    "message": "最近发布",
+    "description": "The label for the left sidebar"
+  }
+}

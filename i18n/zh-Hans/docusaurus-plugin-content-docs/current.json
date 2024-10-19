@@ -1,0 +1,22 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.准备工作": {
+    "message": "准备工作",
+    "description": "The label for category 准备工作 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.准备工作.link.generated-index.description": {
+    "message": "在正式开始之前需要做一些准备工作，以避免未来可能遇到的基础问题。",
+    "description": "The generated-index page description for category 准备工作 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.基础工具": {
+    "message": "基础工具",
+    "description": "The label for category 基础工具 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.基础工具.link.generated-index.description": {
+    "message": "几乎伴随整个 Mod 过程的重要工具。",
+    "description": "The generated-index page description for category 基础工具 in sidebar tutorialSidebar"
+  }
+}
