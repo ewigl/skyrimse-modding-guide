@@ -102,7 +102,7 @@ const config = {
           {
             title: '链接',
             items: [
-              { label: 'Intro', to: '/docs/tutorials' },
+              { label: 'Intro', to: '/docs/tutorials/intro' },
               { label: 'Github', href: PROJECT_GITHUB_URL },
               { label: "SSE's NexusMods", href: 'https://www.nexusmods.com/skyrimspecialedition' },
             ],
