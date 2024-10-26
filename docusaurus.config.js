@@ -101,16 +101,16 @@ const config = {
       },
       footer: {
         style: 'light',
-        links: [
-          {
-            title: '链接',
-            items: [
-              { label: 'Intro', to: '/docs/tutorials/intro' },
-              { label: 'Github', href: PROJECT_GITHUB_URL },
-              { label: "SSE's NexusMods", href: 'https://www.nexusmods.com/skyrimspecialedition' },
-            ],
-          },
-        ],
+        // links: [
+        //   {
+        //     title: '链接',
+        //     items: [
+        //       { label: 'Intro', to: '/docs/tutorials/intro' },
+        //       { label: 'Github', href: PROJECT_GITHUB_URL },
+        //       { label: "SSE's NexusMods", href: 'https://www.nexusmods.com/skyrimspecialedition' },
+        //     ],
+        //   },
+        // ],
         copyright: `Copyright © ${new Date().getFullYear()} <a href="${AUTHOR_GITHUB_URL}" target="_blank"> Licht </a>`,
       },
       prism: {
