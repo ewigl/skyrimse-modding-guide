@@ -3,17 +3,21 @@ import Heading from '@theme/Heading'
 import styles from './styles.module.css'
 
 const FeatureList = [
+  // {
+  //   title: '全面',
+  //   description: <>覆盖 Mod 过程中可能会遇到的各种问题</>,
+  // },
+  // {
+  //   title: '准确',
+  //   description: <>不断更新修正</>,
+  // },
+  // {
+  //   title: '实用',
+  //   description: <>通过示例理解 Mod 原理</>,
+  // },
   {
-    title: '全面',
-    description: <>覆盖 Mod 过程中可能会遇到的各种问题</>,
-  },
-  {
-    title: '准确',
-    description: <>不断更新修正</>,
-  },
-  {
-    title: '实用',
-    description: <>通过示例理解 Mod 原理</>,
+    title: '更新中',
+    description: <></>,
   },
 ]
 
