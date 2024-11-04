@@ -6,7 +6,7 @@
 
 import { themes as prismThemes } from 'prism-react-renderer'
 
-const PROJECT_GITHUB_URL = 'https://www.github.com/ewigl/smgl'
+const PROJECT_GITHUB_URL = 'https://www.github.com/ewigl/skyrimse-modding-guide'
 const AUTHOR_GITHUB_URL = 'https://www.github.com/ewigl'
 
 /** @type {import('@docusaurus/types').Config} */
@@ -25,12 +25,12 @@ const config = {
   url: 'https://ewigl.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/smgl/',
+  baseUrl: '/skyrimse-modding-guide/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'Licht', // Usually your GitHub org/user name.
-  projectName: 'SMGL', // Usually your repo name.
+  projectName: 'skyrimse-modding-guide', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
