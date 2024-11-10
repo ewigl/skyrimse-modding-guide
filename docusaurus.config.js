@@ -94,6 +94,7 @@ const config = {
         items: [
           { type: 'docSidebar', sidebarId: 'tutorialSidebar', label: '教程', position: 'left' },
           { type: 'docSidebar', sidebarId: 'referencesSidebar', label: '参考', position: 'left' },
+          { type: 'docSidebar', sidebarId: 'modsSidebar', label: '模组', position: 'left' },
           { to: '/blog', label: '博客', position: 'left' },
           { to: '/about', label: '关于', position: 'right' },
           { href: PROJECT_GITHUB_URL, label: 'GitHub', position: 'right' },
