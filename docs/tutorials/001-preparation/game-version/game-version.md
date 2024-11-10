@@ -13,9 +13,7 @@ description: 游戏版本选择对于后续 Mod 流程也很重要。
 - 《上古卷轴 5：天际》- **The Elder Scrolls V: Skyrim**，也就是俗称的 原版/**LE**。
 - 《上古卷轴 5：天际 特别版》- **The Elder Scrolls V: Skyrim Special Edition**，也就是俗称的 重制版/**SE**。
 
-原版在 Steam 已下架并过时。
-
-重制版为高清重制，具有更好的画面于兼容性，自带原版所有游戏内容。
+原版在 Steam 已下架并过时。重制版为高清重制，具有更好的画面于兼容性，自带原版所有游戏内容。
 
 **也因此，本教程仅针对特别版游戏。**
 
@@ -57,6 +55,8 @@ description: 游戏版本选择对于后续 Mod 流程也很重要。
 
 #### 最新版可以直接通过 Steam 安装，那么 1.5.97 版本的游戏如何获得呢？
 
+> https://ewigl.github.io/notes/posts/202406/download-steam-depot/
+>
 > https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=126154103
 
 #### 为什么 NexusMods 的 Mod 下载选项中有 AE 的选项，需要购买 AE 版本游戏吗?
