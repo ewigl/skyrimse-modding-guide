@@ -1,6 +1,5 @@
 ---
 title: 安装游戏
-sidebar_position: 1
 description: 安装游戏时也有一些注意事项
 ---
 

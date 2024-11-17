@@ -1,6 +1,5 @@
 ---
 title: 游戏版本
-sidebar_position: 1
 description: 关于游戏版本的选择
 ---
 

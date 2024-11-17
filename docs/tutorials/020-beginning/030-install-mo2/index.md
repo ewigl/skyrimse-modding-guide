@@ -1,6 +1,5 @@
 ---
 title: 安装 MO2
-sidebar_position: 5
 description: MO2 是最常用的上古卷轴 5 Mod 的管理器
 ---
 

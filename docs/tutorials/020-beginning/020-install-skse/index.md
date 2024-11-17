@@ -1,6 +1,5 @@
 ---
 title: 安装 SKSE
-sidebar_position: 3
 description: SKSE 是海量 Mod 的前置，是上古卷轴 5 Mod 基础中的基础
 ---
 
