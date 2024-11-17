@@ -1,9 +1,12 @@
 ---
 title: 安装 MO2
 sidebar_position: 5
+description: MO2 是最常用的上古卷轴 5 Mod 的管理器
 ---
 
 # 安装 MO2
+
+MO2 全称 **Mod Organizer**。
 
 即使只安装个位数的 Mod，也推荐使用 Mod 管理器。
 

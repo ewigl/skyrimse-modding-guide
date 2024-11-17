@@ -1,6 +1,7 @@
 ---
 title: 安装 SKSE
 sidebar_position: 3
+description: SKSE 是海量 Mod 的前置，是上古卷轴 5 Mod 基础中的基础
 ---
 
 # 安装 SKSE
@@ -35,6 +36,6 @@ SKSE 是海量 Mod 的前置，是上古卷轴 5 Mod 基础中的基础。
 双击 `skse64_loader.exe` 运行游戏。进入游戏后，按下键盘左上角的 `~` 键，
 输入 `getskseversion` 并回车。
 
-如果正确安装，会正确显示当前 SKSE 版本。
+如果正确安装，会正确显示当前 SKSE 版本。当前游戏版本 `1.6.1170` 对应的 SKSE 版本为 `2.2.6`。
 
 ![004](./imgs/004.png)
