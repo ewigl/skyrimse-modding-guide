@@ -14,7 +14,11 @@ const BugFixesModList = {
     { name: 'Camera Persistence Fixes', nexusCode: '94490' },
     { name: 'Combat Music Fix NG Updated', nexusCode: '110459' },
     { name: 'Comprehensive Attack Rate Patch - SKSE', nexusCode: '89042' },
-    { name: 'Divine Crusader Creation Club Sword Fix', nexusCode: '15089' },
+    {
+      name: 'Divine Crusader Creation Club Sword Fix',
+      nexusCode: '15089',
+      note: '仅在安装了 AE DLC 时需要。',
+    },
     { name: 'Dual Casting Fix', nexusCode: '92454' },
     { name: 'Equip Enchantment Fix', nexusCode: '42839' },
     { name: "King Olaf's Fire Festival Not Ending Fix", nexusCode: '65849' },
@@ -32,7 +36,7 @@ const BugFixesModList = {
     {
       name: 'Unofficial Skyrim Creation Club Content Patches',
       nexusCode: '18975',
-      note: '仅在安装了 AE DLC 时需要，修复了 DLC 中的 BUG。',
+      note: '仅在安装了 AE DLC 时需要，修复了 Creation Club 内容中的 BUG。',
     },
     { name: "Unofficial Skyrim Modder's Patch - USMP SE", nexusCode: '49616' },
     { name: 'Unofficial Skyrim Special Edition Patch - USSEP', nexusCode: '266' },
