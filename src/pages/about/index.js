@@ -15,7 +15,6 @@ export default function About() {
             <strong> SMGL: </strong>
           </p>
           <p>{siteConfig.title}</p>
-          <p>SkyrimSE Modding Guide by Licht</p>
         </div>
       </div>
     </Layout>
