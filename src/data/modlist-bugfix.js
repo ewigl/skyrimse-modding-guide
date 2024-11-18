@@ -1,5 +1,5 @@
 // exported from MO2, 20241117
-const BugFixesModList = {
+const bugFixesModList = {
   basic: [
     { name: 'Actor Limit Fix', nexusCode: '32349' },
     { name: 'Alchemy XP Fix', nexusCode: '117389' },
@@ -73,13 +73,7 @@ const BugFixesModList = {
     { name: 'Whiterun Imperial Camp Fixes', nexusCode: '96646' },
     { name: 'World Encounter Hostility Fix', nexusCode: '91403' },
     { name: 'Zero Bounty Hostility Fix', nexusCode: '95989' },
-    { name: 'Disk Cache Enabler', nexusCode: '100975' },
-    { name: 'Lightened Skyrim - Base Object Swapper edition', nexusCode: '111475' },
-    { name: 'Save Unbaker', nexusCode: '85565' },
-    { name: 'Shadow Boost', nexusCode: '73133' },
-    { name: 'Skyrim Project Optimization SE', nexusCode: '14084' },
-    { name: 'SSE FPS Stabilizer', nexusCode: '38438' },
   ],
 }
 
-export default BugFixesModList
+export default bugFixesModList
