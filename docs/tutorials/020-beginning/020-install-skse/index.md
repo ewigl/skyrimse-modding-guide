@@ -7,7 +7,7 @@ description: SKSE 是海量 Mod 的前置，是上古卷轴 5 Mod 基础中的�
 
 SKSE 全称为 Skyrim Script Extender。
 
-SKSE 是海量 Mod 的前置，是上古卷轴 5 Mod 基础中的基础。
+SKSE 是海量 Mod 的前置，**是上古卷轴 5 Mod 基础中的基础**。
 
 ## 官网
 

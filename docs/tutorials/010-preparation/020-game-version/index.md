@@ -54,7 +54,7 @@ description: 关于游戏版本的选择
 
 #### 最新版可以直接通过 Steam 安装，那么 1.5.97 版本的游戏如何获得呢？
 
-> https://ewigl.github.io/notes/posts/202406/download-steam-depot/
+> https://ewigl.github.io/notes/posts/gaming/download-steam-depot/
 >
 > https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=126154103
 
