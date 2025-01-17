@@ -3,7 +3,14 @@ title: 角色美化
 description: 角色美化相关教程
 ---
 
+import ModList from '@site/src/components/ModList'
 import NexusmodsPage from '@site/src/components/NexusmodsPage'
+
+export const skinMods = [
+   { name: 'Diamond Skin - CBBE and UNP Female Textures', nexusCode: '45718' },
+   { name: 'Fair Skin Complexion', nexusCode: '798' },
+   { name: 'The Pure CBBE and UNP - 4K or 8K Female Skin Textures', nexusCode: '20583' },
+]
 
 # 角色美化
 
@@ -130,7 +137,7 @@ import NexusmodsPage from '@site/src/components/NexusmodsPage'
 同一具身体按照不同体重体型会略有差别，但也仅仅是略有差别。
 这也是游戏中没有胖子和竹竿的原因，因为**相同性别的角色都是同一具身体**。
 
-> 将在后续教程中更新如何使用 **ObodyNG** 给每一位角色都分配不同的身体数据，实现真正的环肥燕瘦。感兴趣的可以先自行了解 ObodyNG。
+> 将在后续教程中更新如何使用 **ObodyNG** 给每一位角色都分配不同的身体数据，实现真正的身材多样化。
 
 N网的身形数据太多了，选择自己喜欢的即可。接下来以 <NexusmodsPage nexusCode="74455"> Kurone Body Rustic 3BA BodySlide Preset </NexusmodsPage> 为例，刷新服装。
 
@@ -147,3 +154,7 @@ N网的身形数据太多了，选择自己喜欢的即可。接下来以 <Nexus
 ## 安装皮肤
 
 > 如题，替换角色皮肤。
+
+常用皮肤 Mod，任选其一或在N网搜索自己喜欢的皮肤 Mod。
+
+<ModList modList={skinMods} />
