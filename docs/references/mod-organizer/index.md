@@ -37,3 +37,7 @@ title: Mod Organizer
 下载后的 Mod 在右侧栏目的“下载”标签中进行管理。
 
 ![002](./imgs/002.png)
+
+### MO2 管理 Mod 的部分技术原理
+
+> 待施工
