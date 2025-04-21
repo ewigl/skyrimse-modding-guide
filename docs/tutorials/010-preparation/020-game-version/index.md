@@ -13,8 +13,8 @@ description: 关于游戏版本的选择
 
 《上古卷轴 5：天际》只有两个游戏版本。
 
-- 《上古卷轴 5：天际》- **The Elder Scrolls V: Skyrim**，也就是俗称的 **原版 / LE**。
-- 《上古卷轴 5：天际 特别版》- **The Elder Scrolls V: Skyrim Special Edition**，也就是俗称的 **重制版/SE**。
+- 👉《上古卷轴 5：天际》- **The Elder Scrolls V: Skyrim**，也就是俗称的 **原版 / LE**。
+- 👉《上古卷轴 5：天际 特别版》- **The Elder Scrolls V: Skyrim Special Edition**，也就是俗称的 **重制版/SE**。
 
 ❗ 原版在 Steam 已下架过时，不推荐在任何情况下购买，除了情怀。
 
