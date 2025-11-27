@@ -1,31 +1,35 @@
 ---
 title: 安装 Mod
-description: 如何安装 Mod
+description: 基于 MO2 的 Mod 安装流程说明
 ---
 
 import VideoElement from '@site/src/components/VideoElement'
 
 # 安装 Mod
 
-## 安装
+大多数 Mod 只需要简单两步即可安装：
 
-大部分 Mod 的安装非常简单，只需要两步
+1. 从 [NexusMods](https://www.nexusmods.com) 等网站下载所需 Mod 文件。
+2. 使用 Mod Organizer 2（MO2）安装。
 
-1. 从 NexusMods 下载 Mod
-2. 使用 MO2 安装
+## 📁 手动下载
 
-## 示例 (未关联NexusMods / N 网之外的 Mod)
-
-直接将下载后的 Mod 压缩文件拖入 MO2 即可。
+- 下载 Mod 压缩包（通常为 `.zip`、`.rar` 或 `.7z` 格式）
+- 将压缩文件直接拖入 MO2 界面，MO2 会自动识别并添加到列表中
 
 <VideoElement relativePath="install-mods-2.webm" />
 
-## 示例 (已关联NexusMods)
-> 此方法仅推荐在安装小型 Mod 时使用，在下载大型 Mod 时 MO2 可能因文件过大或网络不稳定而出现下载问题。
+## 🌐 通过 MO2 下载
 
-将 Mod 从右侧下载面板拖入左侧即可。
+> ⚠️ **建议仅用于安装体积较小的 Mod**，
+> MO2 在下载大型 Mod 时可能因网络不稳定或服务端限制而发生失败或中断。
 
-关于 MO2 如何关联 NexusMods，参考 [MO2 参考](/docs/references/mod-organizer/#关联-nexusmods)
+前提：MO2 已正确关联 NexusMods API 授权。
+📎 参考文档：[MO2 参考 / 关联 NexusMods](/docs/references/mod-organizer/#关联-nexusmods)
+
+操作方式：
+
+- 在 NexusMods 页面点击“Mod Manager Download”下载
+- 在 MO2 中，从右侧“下载”面板拖动对应 Mod 至左侧“Mod 列表”面板，完成安装
 
 <VideoElement relativePath="install-mods.webm" />
-
