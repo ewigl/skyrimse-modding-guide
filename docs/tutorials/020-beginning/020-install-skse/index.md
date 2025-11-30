@@ -8,11 +8,9 @@ description: SKSE 是海量 Mod 的前置，是上古卷轴 5 Mod 基础中的�
 SKSE 全称为 Skyrim Script Extender。
 
 :::tip
-**SKSE 是上古卷轴 5 Mod 基础中的基础，必装中的必装。**。
-:::
+SKSE 是上古卷轴 5 Mod 基础中的基础，必装中的必装。
 
-:::tip
-安装 SKSE 后，以后启动游戏都需要通过 **SKSE Loader** 启动，而不是通过 Steam。
+**安装 SKSE 后，以后启动游戏都需要通过 SKSE 启动，而不是通过 Steam。**
 :::
 
 ## 🌐 官网地址

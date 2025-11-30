@@ -17,7 +17,11 @@ const FeatureList = [
   },
   {
     title: '更新中...',
-    description: <></>,
+    description: (
+      <a href="https://github.com/ewigl/skyrimse-modding-guide/commits/main/" target="_blank">
+        更新历史记录
+      </a>
+    ),
   },
 ]
 
