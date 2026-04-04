@@ -36,7 +36,7 @@ MO2 中的每个 Mod 都有其优先级，数字越大，优先级越高。
 那么在启动游戏时，MO2 只会加载 EngineFixes - Conf 中的 `EngineFixes.toml` 文件，
 
 
-![conflicts](./imgs/conflicts.jpg)
+![conflicts](./imgs/conflict.jpg)
 
 ## 整理 Mod
 
