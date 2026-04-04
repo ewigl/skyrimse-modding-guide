@@ -63,10 +63,10 @@ export default defineConfig({
 				// 	label: '参考文档',
 				// 	autogenerate: { directory: 'reference' },
 				// },
-				// {
-				// 	label: '常见问题',
-				// 	autogenerate: { directory: 'faq' },
-				// },
+				{
+					label: '常见问题',
+					autogenerate: { directory: 'faq' },
+				},
 			],
 		}),
 	],

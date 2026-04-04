@@ -10,3 +10,8 @@ lastUpdated: 2026-04-02
 如果你购买并安装了周年 DLC，偶尔需要注意部分 Mod 的兼容性，大部分情况下无影响。
 
 如果你使用盗版游戏，Mod 流程会与本指南略有不同。
+
+
+## 相关阅读
+
+- [阻止 Steam 更新游戏](/skyrimse-modding-guide/faq/stop-game-from-updating)
