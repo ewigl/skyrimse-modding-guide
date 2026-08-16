@@ -2,12 +2,32 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 
+const GA_MEASUREMENT_ID = 'G-3WX4XJC2T0';
+
 export default defineConfig({
 	site: "https://ewigl.github.io",
 	base: "/skyrimse-modding-guide",
 	integrations: [
 		starlight({
 			title: '《上古卷轴V: 天际 特别版》 Mod 指南',
+			head: [
+				{
+					tag: 'script',
+					attrs: {
+						async: true,
+						src: `https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}`,
+					},
+				},
+				{
+					tag: 'script',
+					content: `
+						window.dataLayer = window.dataLayer || [];
+						function gtag(){dataLayer.push(arguments);}
+						gtag('js', new Date());
+						gtag('config', '${GA_MEASUREMENT_ID}');
+					`,
+				},
+			],
 			logo: {
 				src: "./public/favicon.svg",
 				replacesTitle: true
