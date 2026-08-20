@@ -85,7 +85,7 @@ export default defineConfig({
 				// },
 				{
 					label: '常见问题',
-					autogenerate: { directory: 'faq' },
+					items: [{ autogenerate: { directory: 'faq' } }]
 				},
 			],
 		}),
