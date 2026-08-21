@@ -15,3 +15,4 @@ lastUpdated: 2026-04-02
 ## 相关阅读
 
 - [阻止 Steam 更新游戏](/skyrimse-modding-guide/faq/stop-game-from-updating)
+- [降级游戏版本](/skyrimse-modding-guide/faq/downgrade-game)
