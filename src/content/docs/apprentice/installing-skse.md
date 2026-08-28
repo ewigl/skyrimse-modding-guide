@@ -30,6 +30,6 @@ SKSE 全称为 Skyrim Script Extender，是上古卷轴 5 Mod 基础中的基础
 **双击 `skse64_loader.exe` 运行游戏**。进入游戏主界面后，按下键盘左上角的 `~` 键，
 输入 `getskseversion` 并回车。
 
-如果正确安装，会显示当前 SKSE 版本。游戏版本 `1.7.99` 对应的 SKSE 版本为 `2.3.0`。下图仅为示例。
+如果正确安装，会显示当前 SKSE 版本。游戏版本 `1.6.1170` 对应的 SKSE 版本为 `2.2.6`。下图仅为示例。
 
 ![004](./imgs/getskseversion.jpg)
