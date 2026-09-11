@@ -36,16 +36,8 @@ SKSE 与 MSVCR 此前已经安装，因此接下来首先安装 Address Library 
 
 ![check](./imgs/check.jpg)
 
-接下来安装 SSE Engine Fixes。查看 SSE Engine Fixes 的 Description，该 Mod 的安装需要一些手动操作。
+接下来安装 SSE Engine Fixes。
 
-![library description](./imgs/library-desc.jpg)
-
-因此点击进入 Files 页面，下载 Main files 中的两个文件 - Main File 以及 SKSE64 Preloader。
+进入 Files 页面，下载 Engine Fixes 7.0.21 beta for Skyrim AE 1.7.99。
 
 将 Main File 通过 MO2 直接安装。
-
-将 SKSE64 Preloader 解压缩，得到 `d3dx9_42.dll` 以及一个无关文件，将 `d3dx9_42.dll` 文件直接移动到游戏根目录，与 `SkyrimSE.exe` 同级即可。
-
-![contents](./imgs/contents.jpg)
-
-![dll](./imgs/d3dx9.jpg)
